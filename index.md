@@ -1,6 +1,6 @@
 # Any Content :heart:
 
-![Ta da](https://sm.ign.com/t/ign_pt/cover/c/christina-/christina-ricci_bb7d.300.jpg)
+![Ta da](https://www.hollywoodreporter.com/wp-content/uploads/2011/02/christina_riccicolor_headshotcroppedphoto_by_andrew_eccles_a_p.jpg?w=2000&h=1126&crop=1)
 
 ### Code Example:
 ``` javascript
